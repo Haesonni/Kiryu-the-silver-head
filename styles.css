@@ -1,0 +1,36 @@
+body {
+	background-color: powderblue;
+}
+h1 {color: red;
+}
+p {color: orange; border: 2px solid black; padding: 30px; margin:50px ;
+}
+<style>
+a:link {
+	color: black;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:visited {
+	color: grey;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:active {
+	color: yellow;
+	background-color: red;
+	text-decoration: underline;
+}
+table, th, td {
+	border: 2px solid black;
+
+}
+th, td {
+	background-color: lightpink;
+	border-style: dotted;
+	padding: 15px;
+}
+table {
+	border-spacing: 20px;
+}
+</style>
